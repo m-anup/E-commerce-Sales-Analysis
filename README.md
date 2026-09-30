@@ -42,9 +42,9 @@ The project uses the **Online Retail** dataset containing transaction-level info
 - [x] Project structure
 - [x] Data exploration
 - [x] Data cleaning
-- [ ] Exploratory data analysis
-- [ ] Data visualization
-- [ ] Business insights
+- [x] Exploratory data analysis
+- [x] Data visualization
+- [x] Business insights
 - [ ] Final dashboard
 
 ## Author
